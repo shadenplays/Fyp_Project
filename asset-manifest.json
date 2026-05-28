@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fyp_Project/static/css/main.5a4d5913.css",
+    "main.js": "/Fyp_Project/static/js/main.4d033820.js",
+    "index.html": "/Fyp_Project/index.html",
+    "main.5a4d5913.css.map": "/Fyp_Project/static/css/main.5a4d5913.css.map",
+    "main.4d033820.js.map": "/Fyp_Project/static/js/main.4d033820.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a4d5913.css",
+    "static/js/main.4d033820.js"
+  ]
+}
